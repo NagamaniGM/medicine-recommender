@@ -1,5 +1,5 @@
 fastapi
-uvicorn
+uvicorn[standard]
 scikit-learn
 pandas
 numpy
@@ -8,5 +8,5 @@ seaborn
 streamlit
 joblib
 plotly
-python-dotenv
 requests
+python-multipart
