@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+database/
+*.db
+model/model.pkl
+model/tfidf.pkl
+dataset/symptom_disease.csv
